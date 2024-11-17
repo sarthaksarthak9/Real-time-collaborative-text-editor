@@ -54,5 +54,3 @@ With these features in mind, this project can be a great starting point for anyo
 ## Contributing
 
 Contributions are welcome! Fork the repo and submit a pull request. If you have any questions, feel free to open an issue.
-
-Made with :heart: by [Dakshesh](https://github.com/dakshesh14)
